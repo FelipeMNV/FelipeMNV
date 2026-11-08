@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Felipe! 👋
 
-**Estudante de Engenharia de Software | Desenvolvedor Backend em formação**
+**Estudante de Engenharia de Software | Desenvolvedor em formação**
 
 Construindo APIs, aprendendo novas tecnologias e transformando ideias em projetos reais.
 
